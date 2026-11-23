@@ -26,4 +26,4 @@ A multi-domain analytics platform built like a production team would build it: m
 
 ## Get in touch
 
-[LinkedIn](https://linkedin.com/in/tarifur) · [Email](mailto:tarifurrahman@yahoo.com])
+[LinkedIn](https://linkedin.com/in/tarifur) · [Email](mailto:tarifurrahman@yahoo.com)
