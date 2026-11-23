@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**tarifurrah/tarifurrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Analytics Engineer who builds the data foundations teams can trust: clean pipelines, well-tested models, and dashboards people actually use. Then I use that foundation to answer the harder question: *what actually moves the outcome?*
 
-Here are some ideas to get you started:
+## What I work on
+- 🏗️ **Data modeling**: dimensional and layered models in dbt (staging → intermediate → marts)
+- ✅ **Data quality**: tests, documentation, and lineage so numbers are defensible
+- 📊 **Analytics & experimentation**: causal questions, A/B tests, and metrics that tie to decisions
+- 🤝 **Stakeholder partnership**: turning vague business questions into scoped, answerable ones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+**SQL** · **dbt** · **Python** · **BigQuery** · **[Snowflake / Postgres]** · **[Airflow]** · **[Tableau / Looker/ Domo/ Sigma]** · **Git**
+
+## Featured projects
+| Project | What it shows |
+|---|---|
+| [Project name](link) | End-to-end dbt pipeline on public data with tests, docs, and a dashboard |
+| *Coming soon* | |
+
+## Get in touch
+[LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:you@example.com)
